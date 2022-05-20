@@ -2,7 +2,6 @@
 
 int main() (
   
-  printf("Hello c")
- 
+  printf("Hello create")
   return 0;
  )
